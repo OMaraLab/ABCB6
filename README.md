@@ -1,6 +1,6 @@
 # ABCB6
 
-Representative structures of ABCB6 from Amber MD simulations
+Structures after 500 ns of production simulation using AMBER of ABCB6 embedded in a model membrane. 
 
 This work is published as:
 
