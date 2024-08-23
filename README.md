@@ -1,6 +1,13 @@
 # ABCB6
 
-Input files, post-equilibration starting system used to initiate replicate molecular dynamcics production simulations, and representative structures after triplicate 500 ns of production simulation using AMBER of ABCB6 embedded in a model RBC membrane. 
+AMBER molecular dynamcics input files, post-equilibration starting system used to initiate replicate molecular dynamcics production simulations, and representative structures after triplicate 500 ns of production simulation of ABCB6 embedded in a model RBC membrane.
+
+Systems simulated are: 
+  1) human wild type ABCB6 (htABCB6_WT)
+  2) human ABCB6 incorporating the L356P mutation (htABCB6_L356P)
+  3) zebra fish wild type ABCB6 (zfABCB6_WT)
+  4) zebra fish ABCB6 incorporating the corresponding L356P mutation (zfABCB6_L356P)
+
 
 This work is published as:
 
